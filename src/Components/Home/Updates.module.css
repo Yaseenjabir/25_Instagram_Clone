@@ -1,0 +1,7 @@
+#content {
+  background-color: black;
+  opacity: 0.3;
+}
+#content:hover {
+  opacity: 0;
+}

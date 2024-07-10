@@ -1,0 +1,80 @@
+export const ProjectsData = [
+  {
+    title: "Postulate",
+    desc: "GitHub for knowledge: a notetaking app for sharing your thoughts, learning, and work with the world.",
+    img: "https://www.samsonzhang.com/portfolio-code/postulate.jpg",
+    tags: ["react", "next", "mongodb", "s3"],
+  },
+  {
+    title: "Updately",
+    desc: "A social platform for daily updates. Originally built and launched in three days",
+    img: "https://www.samsonzhang.com/portfolio-code/updately.png",
+    tags: ["react", "next", "mongodb"],
+  },
+  {
+    title: "TSL COVID Tracker",
+    desc: "A central dashboard for COVID information across the five Claremont Colleges, built for The Student Life",
+    img: "https://www.samsonzhang.com/portfolio-code/covid.png",
+    tags: ["react", "next"],
+  },
+  {
+    title: "Visualizing Pomona's 2025 Admissions",
+    desc: "Data visualization piece 'Diversity takes a dip in Pomona’s Class of 2025' for The Student Life",
+    img: "https://www.samsonzhang.com/portfolio-code/datavis.gif",
+    tags: ["react", "idyll", "d3"],
+  },
+  {
+    title: "sota.js",
+    desc: "An easy-to-use, beautiful, d3.js-based charting library. Built for The Phillipian's State of the Academy 2020 survey",
+    img: "https://www.samsonzhang.com/portfolio-code/sota.jpg",
+    tags: ["react", "next", "mongodb", "s3"],
+  },
+  {
+    title: "EloLeague",
+    desc: "Log your house, club, or league games and get player rankings and metrics over time. 2-day hackathon build. (Since shut down)",
+    img: "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices.jpg",
+    tags: ["d3", "npm"],
+  },
+  {
+    title: "YouTube Liberation",
+    desc: "Chrome extension to liberate you from the infinite distraction cycle of YouTube.",
+    img: "https://www.samsonzhang.com/portfolio-code/ytl.jpg",
+    tags: ["js", "chromextension"],
+  },
+  {
+    title: "Auto Turner",
+    desc: "A mechanical page turner for musicians. The final result of Cooper Union's 6 week product design and prototyping Makerspace class in the Summer STEM 2018 program.",
+    img: "https://www.samsonzhang.com/portfolio-code/autoturner.gif",
+    tags: ["react", "next", "mongodb", "s3"],
+  },
+  {
+    title: "Morse WP Theme",
+    desc: "A WordPress theme custom-made for small newspapers. Built with versatility, ease of use, and maintainability in mind.",
+    img: "https://www.samsonzhang.com/portfolio-code/morse.jpg",
+    tags: ["wordpress", "php", "sass"],
+  },
+  {
+    title: "DIY Motorized Camera Gimbal",
+    desc: "Building a motorized 3-axis gimbal to stabilize cameras for filmmaking using 3D printing and laser cutting.",
+    img: "https://www.samsonzhang.com/portfolio-code/gimbal.gif",
+    tags: ["3D printing", "laser cutting", "microcontrollers"],
+  },
+  {
+    title: "Small Form Factor Ryzen PC Build",
+    desc: "A custom PC the size of a shoebox, but with a Ryzen R5 2600 and GTX 1060 for twice the power of my old build.",
+    img: "https://www.samsonzhang.com/portfolio-code/sff.jpg",
+    tags: ["pc build"],
+  },
+  {
+    title: "Question Journal",
+    desc: "A notetaking app that helps you answer your biggest questions. Question Journal lets you document your questions and notes about them over time, centering curiosity in your learning.",
+    img: "https://www.samsonzhang.com/portfolio-code/questionjournal.png",
+    tags: ["react", "next", "mongodb"],
+  },
+  {
+    title: "The Phillipian",
+    desc: "Rebuilt Phillips Academy's student publication's WordPress site template from scratch, supporting over 15,000 historical articles and 80-100 new ones uploaded each week, along with multimedia content.",
+    img: "https://www.samsonzhang.com/portfolio-code/phillipian.png",
+    tags: ["wordpress", "php"],
+  },
+];
